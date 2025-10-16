@@ -1,0 +1,200 @@
+﻿segment,product,unit_sold,sales_price,sales,month_number,month_name
+Government,Carretera,1618,20,32370,1,January
+Government, Carretera ,1321,20,26420,1, January 
+Midmarket, Carretera ,2178,15,32670,6, June 
+Midmarket, Carretera ,888,15,13320,6, June 
+Midmarket, Carretera ,2470,15,37050,6, June 
+Government, Carretera ,1513,350,529550,12, December 
+Midmarket, Montana ,921,15,13815,3, March 
+Channel Partners, Montana ,2518,12,30216,6, June 
+Government, Montana ,1899,20,37980,6, June 
+Channel Partners, Montana ,1545,12,18540,6, June 
+Midmarket, Montana ,2470,15,37050,6, June 
+Enterprise, Montana ,2666,125,333188,7, July 
+Small Business, Montana ,958,300,287400,8, August 
+Government, Montana ,2146,7,15022,9, September 
+Enterprise, Montana ,345,125,43125,10, October 
+Midmarket, Montana ,615,15,9225,12, December 
+Government, Paseo ,292,20,5840,2, February 
+Midmarket, Paseo ,974,15,14610,2, February 
+Channel Partners, Paseo ,2518,12,30216,6, June 
+Government, Paseo ,1006,350,352100,6, June 
+Channel Partners, Paseo ,367,12,4404,7, July 
+Government, Paseo ,883,7,6181,8, August 
+Midmarket, Paseo ,549,15,8235,9, September 
+Small Business, Paseo ,788,300,236400,9, September 
+Midmarket, Paseo ,2472,15,37080,9, September 
+Government, Paseo ,1143,7,8001,10, October 
+Government, Paseo ,1725,350,603750,11, November 
+Channel Partners, Paseo ,912,12,10944,11, November 
+Midmarket, Paseo ,2152,15,32280,12, December 
+Government, Paseo ,1817,20,36340,12, December 
+Government, Paseo ,1513,350,529550,12, December 
+Government, Velo ,1493,7,10451,1, January 
+Enterprise, Velo ,1804,125,225500,2, February 
+Channel Partners, Velo ,2161,12,25932,3, March 
+Government, Velo ,1006,350,352100,6, June 
+Channel Partners, Velo ,1545,12,18540,6, June 
+Enterprise, Velo ,2821,125,352625,8, August 
+Enterprise, Velo ,345,125,43125,10, October 
+Small Business, VTT ,2001,300,600300,2, February 
+Channel Partners, VTT ,2838,12,34056,4, April 
+Midmarket, VTT ,2178,15,32670,6, June 
+Midmarket, VTT ,888,15,13320,6, June 
+Government, VTT ,1527,350,534450,9, September 
+Small Business, VTT ,2151,300,645300,9, September 
+Government, VTT ,1817,20,36340,12, December 
+Government, Amarilla ,2750,350,962500,2, February 
+Channel Partners, Amarilla ,1953,12,23436,4, April 
+Enterprise, Amarilla ,4220,125,527438,4, April 
+Government, Amarilla ,1899,20,37980,6, June 
+Government, Amarilla ,1686,7,11802,7, July 
+Channel Partners, Amarilla ,2141,12,25692,8, August 
+Government, Amarilla ,1143,7,8001,10, October 
+Midmarket, Amarilla ,615,15,9225,12, December 
+Government, Paseo ,3945,7,27339,1, January 
+Midmarket, Paseo ,2296,15,34096,2, February 
+Government, Paseo ,1030,7,7138,5, May 
+Government, Velo ,639,7,4428,11, November 
+Government, VTT ,1326,7,9189,3, March 
+Channel Partners, Carretera ,1858,12,22073,2, February 
+Government, Carretera ,1210,350,419265,3, March 
+Government, Carretera ,2529,7,17526,7, July 
+Channel Partners, Carretera ,1445,12,17167,9, September 
+Enterprise, Carretera ,330,125,40838,9, September 
+Channel Partners, Carretera ,2671,12,31731,9, September 
+Channel Partners, Carretera ,766,12,9100,10, October 
+Small Business, Carretera ,494,300,146718,10, October 
+Government, Carretera ,1397,350,484061,10, October 
+Government, Carretera ,2155,350,746708,12, December 
+Midmarket, Montana ,2214,15,32878,3, March 
+Small Business, Montana ,2301,300,683397,4, April 
+Government, Montana ,1376,20,27235,7, July 
+Government, Montana ,1830,7,12682,8, August 
+Small Business, Montana ,2498,300,741906,9, September 
+Enterprise, Montana ,663,125,82046,10, October 
+Midmarket, Paseo ,1514,15,22483,2, February 
+Government, Paseo ,4493,7,31133,4, April 
+Enterprise, Paseo ,727,125,89966,6, June 
+Enterprise, Paseo ,787,125,97391,6, June 
+Enterprise, Paseo ,1823,125,225596,7, July 
+Midmarket, Paseo ,747,15,11093,9, September 
+Channel Partners, Paseo ,766,12,9100,10, October 
+Small Business, Paseo ,2905,300,862785,11, November 
+Government, Paseo ,2155,350,746708,12, December 
+Government, Velo ,3864,20,76507,4, April 
+Government, Velo ,362,7,2509,5, May 
+Enterprise, Velo ,923,125,114221,8, August 
+Enterprise, Velo ,663,125,82046,10, October 
+Government, Velo ,2092,7,14498,11, November 
+Government, VTT ,263,7,1823,3, March 
+Government, VTT ,944,350,326923,4, April 
+Enterprise, VTT ,727,125,89966,6, June 
+Enterprise, VTT ,787,125,97391,6, June 
+Small Business, VTT ,986,300,292842,9, September 
+Small Business, VTT ,494,300,146718,10, October 
+Government, VTT ,1397,350,484061,10, October 
+Enterprise, VTT ,1744,125,215820,11, November 
+Channel Partners, Amarilla ,1989,12,23629,9, September 
+Midmarket, Amarilla ,321,15,4767,11, November 
+Enterprise, Carretera ,743,125,90956,4, April 
+Channel Partners, Carretera ,1295,12,15229,10, October 
+Small Business, Carretera ,214,300,62916,10, October 
+Government, Carretera ,2145,7,14715,11, November 
+Government, Carretera ,2852,350,978236,12, December 
+Channel Partners, Montana ,1142,12,13430,6, June 
+Government, Montana ,1566,20,30694,10, October 
+Channel Partners, Montana ,690,12,8114,11, November 
+Enterprise, Montana ,1660,125,203350,11, November 
+Midmarket, Paseo ,2363,15,34736,2, February 
+Small Business, Paseo ,918,300,269892,5, May 
+Small Business, Paseo ,1728,300,508032,5, May 
+Channel Partners, Paseo ,1142,12,13430,6, June 
+Enterprise, Paseo ,662,125,81095,6, June 
+Channel Partners, Paseo ,1295,12,15229,10, October 
+Enterprise, Paseo ,809,125,99103,10, October 
+Enterprise, Paseo ,2145,125,262763,10, October 
+Channel Partners, Paseo ,1785,12,20992,11, November 
+Small Business, Paseo ,1916,300,563304,12, December 
+Government, Paseo ,2852,350,978236,12, December 
+Enterprise, Paseo ,2729,125,334303,12, December 
+Midmarket, Paseo ,1925,15,28298,12, December 
+Government, Paseo ,2013,7,13809,12, December 
+Channel Partners, Paseo ,1055,12,12407,12, December 
+Channel Partners, Paseo ,1084,12,12748,12, December 
+Government, Velo ,1566,20,30694,10, October 
+Government, Velo ,2966,350,1017338,10, October 
+Government, Velo ,2877,350,986811,10, October 
+Enterprise, Velo ,809,125,99103,10, October 
+Enterprise, Velo ,2145,125,262763,10, October 
+Channel Partners, Velo ,1055,12,12407,12, December 
+Government, Velo ,544,20,10662,12, December 
+Channel Partners, Velo ,1084,12,12748,12, December 
+Enterprise, VTT ,662,125,81095,6, June 
+Small Business, VTT ,214,300,62916,10, October 
+Government, VTT ,2877,350,986811,10, October 
+Enterprise, VTT ,2729,125,334303,12, December 
+Government, VTT ,266,350,91238,12, December 
+Government, VTT ,1940,350,665420,12, December 
+Small Business, Amarilla ,259,300,76146,3, March 
+Small Business, Amarilla ,1101,300,323694,3, March 
+Enterprise, Amarilla ,2276,125,278810,5, May 
+Government, Amarilla ,2966,350,1017338,10, October 
+Government, Amarilla ,1236,20,24226,11, November 
+Government, Amarilla ,941,20,18444,11, November 
+Small Business, Amarilla ,1916,300,563304,12, December 
+Enterprise, Carretera ,4244,125,514524,4, April 
+Government, Carretera ,2580,20,50052,4, April 
+Small Business, Carretera ,689,300,200499,6, June 
+Channel Partners, Carretera ,1947,12,22663,9, September 
+Channel Partners, Carretera ,908,12,10569,12, December 
+Government, Montana ,1958,7,13295,2, February 
+Channel Partners, Montana ,1901,12,22128,6, June 
+Government, Montana ,544,7,3694,9, September 
+Government, Montana ,1797,350,610082,9, September 
+Enterprise, Montana ,1287,125,156049,12, December 
+Enterprise, Montana ,1706,125,206853,12, December 
+Small Business, Paseo ,2435,300,708440,1, January 
+Enterprise, Paseo ,1774,125,215098,3, March 
+Channel Partners, Paseo ,1901,12,22128,6, June 
+Small Business, Paseo ,689,300,200499,6, June 
+Enterprise, Paseo ,1570,125,190363,6, June 
+Channel Partners, Paseo ,1370,12,15941,7, July 
+Enterprise, Paseo ,2009,125,243591,10, October 
+Midmarket, Paseo ,1945,15,28300,10, October 
+Enterprise, Paseo ,1287,125,156049,12, December 
+Enterprise, Paseo ,1706,125,206853,12, December 
+Enterprise, Velo ,2009,125,243591,10, October 
+Small Business, VTT ,2844,300,827604,2, February 
+Channel Partners, VTT ,1916,12,22302,4, April 
+Enterprise, VTT ,1570,125,190363,6, June 
+Small Business, VTT ,1874,300,545334,8, August 
+Government, VTT ,1642,350,557459,8, August 
+Midmarket, VTT ,1945,15,28300,10, October 
+Government, Carretera ,831,20,16121,5, May 
+Government, Paseo ,1760,7,11950,9, September 
+Government, Velo ,3851,20,74700,4, April 
+Channel Partners, VTT ,2479,12,28856,1, January 
+Midmarket, Montana ,2031,15,29246,10, October 
+Midmarket, Paseo ,2031,15,29246,10, October 
+Midmarket, Paseo ,2261,15,32558,12, December 
+Government, Velo ,736,20,14131,9, September 
+Government, Carretera ,2851,7,19159,10, October 
+Small Business, Carretera ,2021,300,582048,10, October 
+Government, Carretera ,274,350,92064,12, December 
+Midmarket, Montana ,1967,15,28325,3, March 
+Small Business, Montana ,1859,300,535392,8, August 
+Government, Montana ,2851,7,19159,10, October 
+Small Business, Montana ,2021,300,582048,10, October 
+Enterprise, Montana ,1138,125,136560,12, December 
+Government, Paseo ,4251,7,28567,1, January 
+Enterprise, Paseo ,795,125,95400,3, March 
+Small Business, Paseo ,1415,300,407376,4, April 
+Small Business, Paseo ,2918,300,840384,5, May 
+Government, Paseo ,3450,350,1159200,7, July 
+Enterprise, Paseo ,2988,125,358560,7, July 
+Midmarket, Paseo ,218,15,3139,9, September 
+Government, Paseo ,2074,20,39821,9, September 
+Government, Paseo ,1056,20,20275,9, September 
+Midmarket, Paseo ,671,15,9662,10, October 
+Midmarket, Paseo ,1514,15,21802,10, October 

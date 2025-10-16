@@ -1,0 +1,200 @@
+﻿sr_no,Name,Job_Title,Department,Business_Unit,Gender,Ethnicity
+1,Leo Owens,Systems Analyst,IT,Corporate,Male,Caucasian
+2,Madeline Hoang,Systems Analyst,IT,Research & Development,Female,Asian
+3,Maria Chin,Analyst,Marketing,Manufacturing,Female,Asian
+4,Sophie Ali,Analyst,Finance,Manufacturing,Female,Asian
+5,Hazel Cortez,HRIS Analyst,Human Resources,Research & Development,Female,Latino
+6,Nora Nelson,Analyst II,Finance,Manufacturing,Female,Caucasian
+7,Parker Vang,Analyst,Sales,Corporate,Male,Asian
+8,Eli Soto,Analyst,Marketing,Speciality Products,Male,Latino
+9,Emma Cao,Analyst,Accounting,Corporate,Female,Asian
+10,Robert Edwards,HRIS Analyst,Human Resources,Corporate,Male,Caucasian
+11,Alice Soto,Analyst,Accounting,Corporate,Female,Latino
+12,Cooper Jiang,Analyst II,Accounting,Corporate,Male,Asian
+13,Joshua Gupta,Account Representative,Sales,Corporate,Male,Asian
+14,Maverick Medina,Analyst II,Sales,Manufacturing,Male,Latino
+15,Kennedy Vargas,Business Partner,Human Resources,Manufacturing,Female,Latino
+16,Alexander Foster,Analyst II,Marketing,Manufacturing,Male,Black
+17,Luke Mai,HRIS Analyst,Human Resources,Research & Development,Male,Asian
+18,Zoe Do,Analyst II,Sales,Speciality Products,Female,Asian
+19,Brooks Stewart,HRIS Analyst,Human Resources,Manufacturing,Male,Black
+20,Owen Han,Analyst,Accounting,Corporate,Male,Asian
+21,Grayson Soto,Business Partner,Human Resources,Manufacturing,Male,Latino
+22,Connor Simmons,Analyst II,Accounting,Speciality Products,Male,Caucasian
+23,Alice Mehta,Analyst II,Sales,Research & Development,Female,Asian
+24,Julian Delgado,Systems Analyst,IT,Speciality Products,Male,Latino
+25,Sophie Owens,Analyst II,Finance,Research & Development,Female,Caucasian
+26,Austin Edwards,IT Coordinator,IT,Manufacturing,Male,Black
+27,Eliana Allen,Business Partner,Human Resources,Research & Development,Female,Caucasian
+28,Scarlett Figueroa,Business Partner,Human Resources,Speciality Products,Female,Latino
+29,Miles Salazar,IT Coordinator,IT,Manufacturing,Male,Latino
+30,Savannah Park,HRIS Analyst,Human Resources,Manufacturing,Female,Asian
+31,Ella Hunter,Analyst,Finance,Manufacturing,Female,Caucasian
+32,Ava Nelson,Systems Analyst,IT,Manufacturing,Female,Caucasian
+33,Eli Reed,Systems Analyst,IT,Corporate,Male,Caucasian
+34,Andrew Huynh,Business Partner,Human Resources,Speciality Products,Male,Asian
+35,Everly Walker,HRIS Analyst,Human Resources,Speciality Products,Female,Caucasian
+36,Axel Jordan,Analyst,Sales,Corporate,Male,Caucasian
+37,Jackson Jordan,Business Partner,Human Resources,Research & Development,Male,Black
+38,Connor Walker,Analyst II,Finance,Manufacturing,Male,Caucasian
+39,Rylee Bui,Analyst,Accounting,Corporate,Female,Asian
+40,Ezekiel Kumar,IT Coordinator,IT,Research & Development,Male,Asian
+41,Samantha Woods,Analyst,Accounting,Speciality Products,Female,Caucasian
+42,Adrian Fernandez,Systems Analyst,IT,Research & Development,Male,Latino
+43,Madelyn Mehta,Analyst,Sales,Speciality Products,Female,Asian
+44,Emery Do,Account Representative,Sales,Research & Development,Female,Asian
+45,Miles Dang,IT Coordinator,IT,Speciality Products,Male,Asian
+46,Dominic Guzman,Analyst,Finance,Manufacturing,Male,Latino
+47,Natalia Vu,Analyst,Accounting,Research & Development,Female,Asian
+48,Emery Chang,Business Partner,Human Resources,Research & Development,Female,Asian
+49,Emilia Chu,Analyst II,Finance,Manufacturing,Female,Asian
+50,Peyton Vasquez,Analyst,Accounting,Corporate,Female,Latino
+51,Xavier Zheng,Account Representative,Sales,Manufacturing,Male,Asian
+52,Elena Vang,Analyst,Finance,Corporate,Female,Asian
+53,Jayden Kang,Analyst,Finance,Research & Development,Male,Asian
+54,William Vu,Account Representative,Sales,Speciality Products,Male,Asian
+55,Nolan Pena,Analyst,Marketing,Manufacturing,Male,Latino
+56,Hailey Yee,Account Representative,Sales,Research & Development,Female,Asian
+57,Kayden Ortega,Analyst,Accounting,Manufacturing,Male,Latino
+58,Hailey Hong,Account Representative,Sales,Research & Development,Female,Asian
+59,Nicholas Brooks,Analyst II,Accounting,Manufacturing,Male,Caucasian
+60,Caroline Santos,Analyst II,Finance,Research & Development,Female,Latino
+61,Ruby Washington,Analyst,Marketing,Research & Development,Female,Black
+62,Charles Moore,Analyst,Accounting,Speciality Products,Male,Caucasian
+63,Samuel Morales,Analyst II,Finance,Corporate,Male,Latino
+64,Brooklyn Daniels,Analyst,Marketing,Speciality Products,Female,Caucasian
+65,Ruby Choi,Analyst,Accounting,Manufacturing,Female,Asian
+66,Brooklyn Ruiz,IT Coordinator,IT,Manufacturing,Female,Latino
+67,Ezra Banks,Analyst II,Sales,Research & Development,Male,Caucasian
+68,Isaac Sanders,HRIS Analyst,Human Resources,Manufacturing,Male,Caucasian
+69,Isaac Joseph,Analyst,Sales,Manufacturing,Male,Caucasian
+70,Nora Nunez,Analyst II,Finance,Research & Development,Female,Latino
+71,Vivian Guzman,Analyst II,Finance,Speciality Products,Female,Latino
+72,Roman King,Analyst II,Finance,Corporate,Male,Caucasian
+73,Nathan Lee,Analyst,Accounting,Manufacturing,Male,Asian
+74,Emery Ford,Analyst II,Marketing,Corporate,Female,Caucasian
+75,Jack Vu,Analyst II,Accounting,Research & Development,Male,Asian
+76,Maverick Li,Analyst II,Sales,Research & Development,Male,Asian
+77,Zoey Jackson,Business Partner,Human Resources,Manufacturing,Female,Black
+78,Mateo Vu,Account Representative,Sales,Speciality Products,Male,Asian
+79,Emily Contreras,Analyst II,Sales,Manufacturing,Female,Latino
+80,Jonathan Khan,Account Representative,Sales,Manufacturing,Male,Asian
+81,Amelia Salazar,Analyst II,Finance,Corporate,Female,Latino
+82,Logan Mitchell,Analyst II,Marketing,Manufacturing,Male,Caucasian
+83,Axel Chu,Systems Analyst,IT,Research & Development,Male,Asian
+84,Vivian Thao,Quality Engineer,Engineering,Research & Development,Female,Asian
+85,Adam Espinoza,Test Engineer,Engineering,Manufacturing,Male,Latino
+86,Lydia Huynh,Account Representative,Sales,Speciality Products,Female,Asian
+87,Rylee Dinh,Development Engineer,Engineering,Speciality Products,Female,Asian
+88,Charlotte Baker,Analyst II,Sales,Manufacturing,Female,Caucasian
+89,Addison Roberts,Network Architect,IT,Manufacturing,Female,Caucasian
+90,Ella Jenkins,Analyst II,Finance,Speciality Products,Female,Caucasian
+91,Eva Figueroa,Analyst II,Sales,Research & Development,Female,Latino
+92,Isabella Bailey,Network Administrator,IT,Manufacturing,Female,Caucasian
+93,Jordan Cho,Analyst II,Accounting,Speciality Products,Male,Asian
+94,Madison Hunter,Network Administrator,IT,Corporate,Female,Caucasian
+95,Samantha Adams,Test Engineer,Engineering,Research & Development,Female,Caucasian
+96,Charlotte Ruiz,Computer Systems Manager,IT,Manufacturing,Female,Latino
+97,Joshua Yang,Network Engineer,IT,Manufacturing,Male,Asian
+98,Silas Hunter,Solutions Architect,IT,Corporate,Male,Black
+99,Leah Bryant,IT Coordinator,IT,Manufacturing,Female,Caucasian
+100,Greyson Dang,Development Engineer,Engineering,Manufacturing,Male,Asian
+101,Lillian Gonzales,Cloud Infrastructure Architect,IT,Manufacturing,Female,Latino
+102,Madeline Watson,Account Representative,Sales,Research & Development,Female,Black
+103,Noah King,Development Engineer,Engineering,Speciality Products,Male,Black
+104,Jaxon Powell,Field Engineer,Engineering,Research & Development,Male,Caucasian
+105,Claire Jones,Field Engineer,Engineering,Corporate,Female,Caucasian
+106,Parker Avila,Analyst II,Marketing,Manufacturing,Male,Latino
+107,Aaron Maldonado,Analyst II,Finance,Manufacturing,Male,Latino
+108,Cameron Evans,Test Engineer,Engineering,Corporate,Male,Caucasian
+109,Eliza Adams,Account Representative,Sales,Manufacturing,Female,Caucasian
+110,Grayson Turner,Solutions Architect,IT,Corporate,Male,Caucasian
+111,Miles Thao,System Administrator ,IT,Corporate,Male,Asian
+112,Charles Moore,Technical Architect,IT,Manufacturing,Male,Black
+113,Emily Gupta,HRIS Analyst,Human Resources,Corporate,Female,Asian
+114,Ian Miller,Computer Systems Manager,IT,Corporate,Male,Black
+115,Jade Yi,Account Representative,Sales,Speciality Products,Female,Asian
+116,Levi Moreno,Systems Analyst,IT,Research & Development,Male,Latino
+117,Dominic Parker,Test Engineer,Engineering,Research & Development,Male,Caucasian
+118,Sophie Oh,Network Engineer,IT,Corporate,Female,Asian
+119,Everleigh Washington,HRIS Analyst,Human Resources,Research & Development,Female,Caucasian
+120,Genesis Xiong,System Administrator ,IT,Research & Development,Female,Asian
+121,Jeremiah Castillo,Analyst II,Accounting,Research & Development,Male,Latino
+122,Valentina Moua,Account Representative,Sales,Manufacturing,Female,Asian
+123,Charles Gonzalez,Quality Engineer,Engineering,Research & Development,Male,Latino
+124,Joshua Juarez,Analyst II,Finance,Manufacturing,Male,Latino
+125,Jaxson Wright,Service Desk Analyst,IT,Manufacturing,Male,Black
+126,Eleanor Williams,Enterprise Architect,IT,Speciality Products,Female,Caucasian
+127,Skylar Watson,Network Architect,IT,Speciality Products,Female,Caucasian
+128,Melody Ho,Analyst II,Finance,Research & Development,Female,Asian
+129,Peyton Harris,Enterprise Architect,IT,Research & Development,Female,Caucasian
+130,Elena Her,Account Representative,Sales,Manufacturing,Female,Asian
+131,Gabriel Yu,Technical Architect,IT,Speciality Products,Male,Asian
+132,Joseph Martin,Analyst II,Marketing,Corporate,Male,Black
+133,Lily Henderson,HRIS Analyst,Human Resources,Manufacturing,Female,Caucasian
+134,Nova Herrera,Account Representative,Sales,Speciality Products,Female,Latino
+135,Hazel Griffin,Field Engineer,Engineering,Corporate,Female,Caucasian
+136,Isla Chavez,Account Representative,Sales,Research & Development,Female,Latino
+137,Ivy Tang,Development Engineer,Engineering,Speciality Products,Female,Asian
+138,Andrew Reed,System Administrator ,IT,Corporate,Male,Black
+139,Jack Brown,Analyst,Marketing,Corporate,Male,Caucasian
+140,Everleigh Nunez,Field Engineer,Engineering,Speciality Products,Female,Latino
+141,Kai Flores,Development Engineer,Engineering,Manufacturing,Male,Latino
+142,Ava Ortiz,Enterprise Architect,IT,Manufacturing,Female,Latino
+143,Vivian Hunter,Account Representative,Sales,Corporate,Female,Black
+144,Angel Powell,Analyst II,Sales,Research & Development,Male,Caucasian
+145,Everett Morales,Solutions Architect,IT,Speciality Products,Male,Latino
+146,Nevaeh James,Solutions Architect,IT,Speciality Products,Female,Caucasian
+147,Caleb Marquez,IT Systems Architect,IT,Research & Development,Male,Latino
+148,John Contreras,Analyst II,Marketing,Manufacturing,Male,Latino
+149,Allison Espinoza,Solutions Architect,IT,Speciality Products,Female,Latino
+150,Jaxson Liang,Field Engineer,Engineering,Manufacturing,Male,Asian
+151,Jacob Doan,Analyst II,Sales,Speciality Products,Male,Asian
+152,Lincoln Fong,Analyst II,Sales,Speciality Products,Male,Asian
+153,Ryan Lu,Development Engineer,Engineering,Speciality Products,Male,Asian
+154,Landon Thao,HRIS Analyst,Human Resources,Speciality Products,Male,Asian
+155,Isaac Mitchell,Network Architect,IT,Speciality Products,Male,Black
+156,Kennedy Do,Computer Systems Manager,IT,Manufacturing,Female,Asian
+157,Alice Tran,Analyst,Marketing,Corporate,Female,Asian
+158,Christopher Butler,Network Architect,IT,Manufacturing,Male,Caucasian
+159,Robert Wright,Technical Architect,IT,Manufacturing,Male,Caucasian
+160,Matthew Gupta,Network Engineer,IT,Speciality Products,Male,Asian
+161,Quinn Trinh,Analyst II,Sales,Corporate,Female,Asian
+162,Hudson Thompson,Analyst II,Accounting,Manufacturing,Male,Black
+163,Eliana Turner,Account Representative,Sales,Research & Development,Female,Black
+164,Nolan Bui,Computer Systems Manager,IT,Research & Development,Male,Asian
+165,Jose Brown,System Administrator ,IT,Speciality Products,Male,Caucasian
+166,Eliana Li,Test Engineer,Engineering,Research & Development,Female,Asian
+167,Emma Perry,Solutions Architect,IT,Manufacturing,Female,Caucasian
+168,Lily Carter,Network Architect,IT,Research & Development,Female,Caucasian
+169,Sofia Trinh,Network Architect,IT,Speciality Products,Female,Asian
+170,Silas Estrada,IT Systems Architect,IT,Corporate,Male,Latino
+171,Jade Acosta,Development Engineer,Engineering,Research & Development,Female,Latino
+172,Leilani Butler,Analyst II,Marketing,Manufacturing,Female,Black
+173,Luke Martin,Analyst,Finance,Manufacturing,Male,Black
+174,Nicholas Song,Analyst II,Marketing,Manufacturing,Male,Asian
+175,Everleigh Adams,Analyst II,Marketing,Manufacturing,Female,Caucasian
+176,Benjamin Ramirez,Network Engineer,IT,Research & Development,Male,Latino
+177,Evelyn Liang,Service Desk Analyst,IT,Speciality Products,Female,Asian
+178,Maverick Henry,Computer Systems Manager,IT,Research & Development,Male,Caucasian
+179,Daniel Jordan,Network Administrator,IT,Corporate,Male,Caucasian
+180,Nova Lin,Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian
+181,Ian Cortez,Analyst II,Marketing,Research & Development,Male,Latino
+182,Sarah Ayala,Analyst,Sales,Corporate,Female,Latino
+183,Jaxon Park,Network Architect,IT,Manufacturing,Male,Asian
+184,Samuel Vega,Analyst II,Marketing,Speciality Products,Male,Latino
+185,Athena Vasquez,Field Engineer,Engineering,Speciality Products,Female,Latino
+186,Sebastian Rogers,HRIS Analyst,Human Resources,Research & Development,Male,Caucasian
+187,Genesis Navarro,Cloud Infrastructure Architect,IT,Corporate,Female,Latino
+188,Peyton Walker,Analyst,Marketing,Research & Development,Female,Caucasian
+189,Nathan Miller,Quality Engineer,Engineering,Speciality Products,Male,Black
+190,Aiden Bryant,Account Representative,Sales,Manufacturing,Male,Black
+191,Nolan Molina,Computer Systems Manager,IT,Corporate,Male,Latino
+192,Anna Molina,Sr. Analyst,Accounting,Corporate,Female,Latino
+193,Audrey Smith,Field Engineer,Engineering,Research & Development,Female,Caucasian
+194,Ezra Wilson,Service Desk Analyst,IT,Manufacturing,Male,Caucasian
+195,Charles Robinson,HRIS Analyst,Human Resources,Speciality Products,Male,Caucasian
+196,Parker James,Quality Engineer,Engineering,Speciality Products,Male,Black
+197,Ezra Singh,Analyst,Finance,Manufacturing,Male,Asian
+198,Autumn Reed,Development Engineer,Engineering,Corporate,Female,Caucasian
+199,Benjamin Delgado,Test Engineer,Engineering,Corporate,Male,Latino
